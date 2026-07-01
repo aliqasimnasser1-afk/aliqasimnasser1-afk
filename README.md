@@ -1,7 +1,7 @@
 <!-- 🔥 HEADER: Profile Header 🔥 -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=1a0000&customColorList=2b0000,800000,ff0000&text=Ali%20Qasim&section=header&fontColor=ffffff&reversal=false&desc=Computer%20Science%20%26%20IT%20Graduate;IT%20Technical%20Support%20Specialist;Full-Stack%20Web%20Developer&descSize=24&descAlignY=65" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=1a0000&customColorList=2b0000,800000,ff0000&text=Ali%20Qasim&section=header&fontColor=ffffff&reversal=false&desc=Computer%20Science%20and%20IT%20Graduate&descSize=24&descAlignY=65" alt="Header Banner" />
 
   <br/>
 
