@@ -86,7 +86,7 @@ I'm always open to new ideas, feedback, and potential collaborations. Feel free 
 
 <!-- 📊 STATS: Dynamic GitHub Stats 📊 -->
 <h3 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliqasimnasser1-afk&show_icons=true&title_color=auto&icon_color=auto&text_color=auto&bg_color=00000000" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.zcy.dev/api?username=aliqasimnasser1-afk&show_icons=true&title_color=auto&icon_color=auto&text_color=auto&bg_color=00000000" alt="GitHub Stats" height="150" />
 </h3>
 
 <div align="center">
