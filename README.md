@@ -1,16 +1,15 @@
+<!-- 🔥 HEADER: Profile Header 🔥 -->
 <div align="center">
 
-  <!-- الاسم ثابت -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=1a0000&customColorList=2b0000,800000,ff0000&text=Ali%20Qasim&section=header&fontColor=ffffff&reversal=false" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=1a0000&customColorList=2b0000,800000,ff0000&text=Ali%20Qasim&section=header&fontColor=ffffff&reversal=false&desc=Computer%20Science%20%26%20IT%20Graduate;IT%20Technical%20Support%20Specialist;Full-Stack%20Web%20Developer&descSize=24&descAlignY=65" alt="Header Banner" />
 
   <br/>
 
-  <!-- اللغات متحركة (typing) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF000000&center=true&width=435&lines=HTML+%7C+CSS3+%7C+JavaScript" alt="Typing SVG" />
-  </a>
+  <!-- اللغات متحركة (typing) بدون رابط -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF000000&center=true&width=435&lines=HTML+%7C+CSS3+%7C+JavaScript" alt="Typing SVG" />
 
 </div>
+
 ---
 
 <!-- 🚀 INTRODUCTION: Professional Bio 🚀 -->
