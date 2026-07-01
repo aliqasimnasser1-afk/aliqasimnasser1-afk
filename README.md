@@ -1,10 +1,14 @@
 <!-- 🔥 HEADER: Profile Header 🔥 -->
 <div align="center">
-https://capsule-render.vercel.app/api?type=rect&height=300&color=FF0000&text=Ali%20Qasim&reversal=false&fontColor=ffffff&animation=twinkling&descSize=24&descAlignY=69
 
-  
-  <!-- الرابط الجديد والكامل من المولد -->
   <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=1a0000&customColorList=2b0000,800000,ff0000&text=Ali%20Qasim&section=header&fontColor=ffffff&reversal=false&animation=blinking&desc=Computer%20Science%20%26%20IT%20Graduate;IT%20Technical%20Support%20Specialist;Full-Stack%20Web%20Developer&descSize=24&descAlignY=65" alt="Animated Banner" />
+
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF000000&center=true&width=435&lines=Ali+Qasim+;HTML+%7C+CSS3+%7C+JavaScript" alt="Typing SVG" />
+  </a>
+
 </div>
 
 ---
@@ -40,7 +44,7 @@ My expertise and interests span a variety of programming languages, frameworks, 
 ### Programming Languages
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a>
-  <a href="https://www.w3.org/T/HTML5/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
+  <a href="https://www.w3.org/TR/html5/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
 </p>
 
@@ -75,7 +79,7 @@ I'm always open to new ideas, feedback, and potential collaborations. Feel free 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:aliqasimnasser1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
