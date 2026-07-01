@@ -1,5 +1,9 @@
 <!-- 🔥 HEADER: Profile Header 🔥 -->
 <div align="center">
+https://capsule-render.vercel.app/api?type=rect&height=300&color=FF0000&text=Ali%20Qasim&reversal=false&fontColor=ffffff&animation=twinkling&descSize=24&descAlignY=69
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B1CF7&center=true&width=435&lines=HTML+CSS3+AVASCRIPT" alt="Typing SVG" /></a>
+
+  
   <!-- الرابط الجديد والكامل من المولد -->
   <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=1a0000&customColorList=2b0000,800000,ff0000&text=Ali%20Qasim&section=header&fontColor=ffffff&reversal=false&animation=blinking&desc=Computer%20Science%20%26%20IT%20Graduate;IT%20Technical%20Support%20Specialist;Full-Stack%20Web%20Developer&descSize=24&descAlignY=65" alt="Animated Banner" />
 </div>
