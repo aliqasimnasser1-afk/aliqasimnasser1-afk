@@ -18,7 +18,7 @@
 
 ---
 
-` 👨‍💻 About Me
+## 👨‍💻 About Me
 
 <div align="center">
   <img src="assets/code-typing.svg" width="520" alt="animated code snippet" />
@@ -44,7 +44,7 @@ class AliQasim:
 
 ---
 
-` 🛠 Tech Arsenal
+## 🛠 Tech Arsenal
 
 <div align="center">
 
@@ -60,7 +60,7 @@ class AliQasim:
 
 ---
 
-` 💼 What I Offer
+## 💼 What I Offer
 
 <table>
 <tr>
@@ -73,13 +73,13 @@ class AliQasim:
 
 ---
 
-` 🚀 Featured Work
+## 🚀 Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-`# 🏢 Business Platforms
+### 🏢 Business Platforms
 Modular enterprise systems built as a team:
 
 - 🔐 **Authentication** service
@@ -92,7 +92,7 @@ Modular enterprise systems built as a team:
 </td>
 <td width="50%" valign="top">
 
-`# 🎬 VeloTok
+### 🎬 VeloTok
 Fast Telegram bot that downloads public TikTok videos, audio, and photo posts.
 
 `Python` · `aiogram` · `yt-dlp` · `Docker`
@@ -103,28 +103,20 @@ Fast Telegram bot that downloads public TikTok videos, audio, and photo posts.
 
 ---
 
-` 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aliqasimnasser1-afk&show_icons=true&theme=dark&title_color=ff3b3b&icon_color=e50914&text_color=e6e6e6&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0000" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliqasimnasser1-afk&layout=compact&theme=dark&title_color=ff3b3b&text_color=e6e6e6&hide_border=true&bg_color=0a0000" alt="languages" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliqasimnasser1-afk&theme=radical" alt="GitHub stats" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliqasimnasser1-afk&theme=radical" alt="Top languages by repo" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliqasimnasser1-afk&theme=radical" alt="Top languages by commit" />
+<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliqasimnasser1-afk&theme=radical&utcOffset=3" alt="Productive time" />
 
 <img src="https://streak-stats.demolab.com?user=aliqasimnasser1-afk&theme=dark&ring=e50914&fire=ff3b3b&currStreakLabel=ff3b3b&currStreakNum=ffffff&sideNums=ffffff&sideLabels=bbbbbb&dates=888888&hide_border=true&background=0a0000" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliqasimnasser1-afk&theme=redical&hide_border=true&area=true&bg_color=0a0000" alt="activity graph" width="100%" />
-
 </div>
 
-`# 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aliqasimnasser1-afk&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="trophies" />
-
-</div>
-
-`# 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <div align="center">
 
@@ -138,7 +130,7 @@ Fast Telegram bot that downloads public TikTok videos, audio, and photo posts.
 
 ---
 
-` 🧭 Currently
+## 🧭 Currently
 
 | | |
 |---|---|
@@ -149,7 +141,7 @@ Fast Telegram bot that downloads public TikTok videos, audio, and photo posts.
 
 ---
 
-` 💡 Dev Quote
+## 💡 Dev Quote
 
 <div align="center">
 
@@ -159,7 +151,7 @@ Fast Telegram bot that downloads public TikTok videos, audio, and photo posts.
 
 ---
 
-` 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
