@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="260" viewBox="0 0 520 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b30012"/>
+      <stop offset="1" stop-color="#0a0000"/>
+    </linearGradient>
+    <clipPath id="c0"><rect x="30" y="60" height="28" width="0"><animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.02;0.10;0.92;1" values="0;0;460;460;0"/></rect></clipPath>
+    <clipPath id="c1"><rect x="30" y="88" height="28" width="0"><animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.12;0.20;0.92;1" values="0;0;460;460;0"/></rect></clipPath>
+    <clipPath id="c2"><rect x="30" y="116" height="28" width="0"><animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.22;0.30;0.92;1" values="0;0;460;460;0"/></rect></clipPath>
+    <clipPath id="c3"><rect x="30" y="144" height="28" width="0"><animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.32;0.40;0.92;1" values="0;0;460;460;0"/></rect></clipPath>
+    <clipPath id="c4"><rect x="30" y="172" height="28" width="0"><animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.42;0.50;0.92;1" values="0;0;460;460;0"/></rect></clipPath>
+    <clipPath id="c5"><rect x="30" y="200" height="28" width="0"><animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.52;0.60;0.92;1" values="0;0;460;460;0"/></rect></clipPath>
+  </defs>
+
+  <rect width="520" height="260" rx="14" fill="url(#bg)"/>
+  <rect width="520" height="40" rx="14" fill="#000" fill-opacity="0.25"/>
+  <circle cx="26" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="20" r="6" fill="#27c93f"/>
+  <text x="260" y="25" fill="#9fb3c8" font-family="monospace" font-size="13" text-anchor="middle">ali.js</text>
+
+  <g font-family="'Fira Code', Consolas, monospace" font-size="18" xml:space="preserve">
+    <g clip-path="url(#c0)"><text x="30" y="80"><tspan fill="#ff7b72">const</tspan><tspan fill="#e6edf3"> ali = {</tspan></text></g>
+    <g clip-path="url(#c1)"><text x="30" y="108"><tspan fill="#e6edf3">  role: </tspan><tspan fill="#ff9a9a">"Backend Engineer"</tspan><tspan fill="#e6edf3">,</tspan></text></g>
+    <g clip-path="url(#c2)"><text x="30" y="136"><tspan fill="#e6edf3">  stack: [</tspan><tspan fill="#ff9a9a">"Python"</tspan><tspan fill="#e6edf3">, </tspan><tspan fill="#ff9a9a">"Docker"</tspan><tspan fill="#e6edf3">],</tspan></text></g>
+    <g clip-path="url(#c3)"><text x="30" y="164"><tspan fill="#e6edf3">  city: </tspan><tspan fill="#ff9a9a">"Medina, SA"</tspan><tspan fill="#e6edf3">,</tspan></text></g>
+    <g clip-path="url(#c4)"><text x="30" y="192"><tspan fill="#e6edf3">  openToWork: </tspan><tspan fill="#ff6b6b">true</tspan><tspan fill="#e6edf3">,</tspan></text></g>
+    <g clip-path="url(#c5)"><text x="30" y="220"><tspan fill="#e6edf3">};</tspan></text></g>
+  </g>
+</svg>
