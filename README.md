@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:b30012,50:3a0006,100:0a0000&text=Ali%20Qasim&fontColor=ffffff&fontSize=64&fontAlignY=36&animation=twinkling&desc=Backend%20%26%20Full-Stack%20Engineer&descSize=22&descAlignY=58" width="100%" alt="Ali Qasim banner" />
+<img src="assets/banner.svg" width="100%" alt="Ali Qasim banner" />
 
 <a href="https://github.com/aliqasimnasser1-afk">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF3B3B&center=true&vCenter=true&width=700&lines=Computer+Science+%26+IT+Graduate;Building+scalable+backend+systems;Authentication+%7C+HR+%7C+Finance+%7C+Fleet+platforms;Python+%C2%B7+Docker+%C2%B7+Automation;Turning+business+needs+into+clean+software" alt="Typing SVG" />
