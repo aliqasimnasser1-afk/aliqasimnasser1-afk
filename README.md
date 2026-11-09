@@ -99,6 +99,22 @@ Fast Telegram bot that downloads public TikTok videos, audio, and photo posts.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ✂️ [Cutwave](https://cutwave-rose.vercel.app)
+Trim, compress, and extract audio from video right in the browser. Files never leave your device.
+
+- ⚡ Fast cut without re-encoding, or frame-accurate precise cut
+- 📦 Compress to a target size for WhatsApp, Discord, or Telegram
+- 🎵 Extract audio to MP3, with volume control up to 300%
+- 🚀 Hardware acceleration with WebCodecs, handles files of several GB
+- 📱 Installable app that works offline on mobile and desktop
+
+`Next.js` · `TypeScript` · `ffmpeg.wasm` · `WebCodecs` · `PWA`
+
+</td>
+</tr>
 </table>
 
 ---
